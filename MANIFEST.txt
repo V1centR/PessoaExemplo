@@ -1,0 +1,5 @@
+Main-Class: br.com.pessoa.Main.java
+Manifest-Version: 1.0
+Built-By: Vicent.
+Build-Jdk: the JDK 11
+Created-By: Java puro OO para meu amigo Valdir.
